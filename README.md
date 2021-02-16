@@ -7,7 +7,9 @@ Data Platform DEI is the new home of the Virtual Group for Diversity, Equity, an
 ## Code of Conduct
 1. No disrespectful behavior. This includes threats, harassment, stalking, abuse, slurs, profanity, personal attacks, sexual remarks or innuendos, physical violence, public speculation about others, and any other behavior that you would not tolerate others display towards you.
 
-2. Respect the presenter and other attendees · Refrain from carrying on conversations during the presentation. If conversation is necessary, please leave the presentation room
+2. Respect the presenter and other attendees 
+   
+	- Refrain from carrying on conversations during the presentation. If conversation is necessary, please leave the presentation room
 
 	- Ask questions but respect the presenter’s wishes regarding when to ask questions (some like questions during the presentation, others have specific Q&A time slots). Also, give others a chance to ask questions. If you have more than one question, give others a chance to pose theirs before you ask your next question.
 
@@ -27,7 +29,7 @@ Data Platform DEI is the new home of the Virtual Group for Diversity, Equity, an
 
 8. No plagiarism. Members may post their own original work or work that they have written permission to post. If a member cites another author’s work, please provide any necessary attribution according to the requirements associated with the original author’s work. Learn more about copyright at: https://www.microsoft.com/en-us/legal/Copyr... (https://www.microsoft.com/en-us/legal/Copyr... ( https://www.microsoft.com/en-us/legal/Copyright/Default.aspx ) );
 
-9. No discrimination or harassment. This user group is committed to providing a harassment-free experience to members regardless of age, ancestry, color, gender identity or expression, marital status, medical condition, national origin, physical size, physical or mental disability, political affiliation, veteran status, race, religion, sex (including pregnancy), sexual orientation, or technology choices. Harassment is unwelcome verbal, physical or virtual behavior based on the characteristics identified above.
+9.  No discrimination or harassment. This user group is committed to providing a harassment-free experience to members regardless of age, ancestry, color, gender identity or expression, marital status, medical condition, national origin, physical size, physical or mental disability, political affiliation, veteran status, race, religion, sex (including pregnancy), sexual orientation, or technology choices. Harassment is unwelcome verbal, physical or virtual behavior based on the characteristics identified above.
 
 10. No sexual harassment. Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex and includes gender-based harassment of a person of the same or different gender. Examples of sexual harassment include, but are not limited to:
 
