@@ -1,6 +1,4 @@
-# DATA_DEI
-Data Platform DEI Virtual Group
-
+# Data Platform DEI Virtual Group
 ## Meetup Page
 https://www.meetup.com/data-platform-dei/
 
