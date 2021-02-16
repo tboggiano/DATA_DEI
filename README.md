@@ -5,6 +5,7 @@ Data Platform DEI Virtual Group
 https://www.meetup.com/data-platform-dei/
 
 ## Website
+https://dei.sqlugs.com/
 
 ## Twitter
 https://twitter.com/data_dei
