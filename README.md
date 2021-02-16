@@ -1,6 +1,13 @@
 # DATA_DEI
 Data Platform DEI Virtual Group
 
+## Meetup Page
+https://www.meetup.com/data-platform-dei/
+
+## Website
+
+## Twitter
+https://twitter.com/data_dei
 ## Mission Statement
 Data Platform DEI is the new home of the Virtual Group for Diversity, Equity, and Inclusion for the Data Platform community where we come to promote DEI in the data field, provide education on issues, and promote people that are diverse.
 
