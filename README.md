@@ -1,19 +1,19 @@
 # DATA_DEI
 Data Platform DEI Virtual Group
 
-##Mission Statement
+## Mission Statement
 Data Platform DEI is the new home of the Virtual Group for Diversity, Equity, and Inclusion for the Data Platform community where we come to promote DEI in the data field, provide education on issues, and promote people that are diverse.
 
-##Code of Conduct
+## Code of Conduct
 1. No disrespectful behavior. This includes threats, harassment, stalking, abuse, slurs, profanity, personal attacks, sexual remarks or innuendos, physical violence, public speculation about others, and any other behavior that you would not tolerate others display towards you.
 
 2. Respect the presenter and other attendees · Refrain from carrying on conversations during the presentation. If conversation is necessary, please leave the presentation room
 
-· Ask questions but respect the presenter’s wishes regarding when to ask questions (some like questions during the presentation, others have specific Q&A time slots). Also, give others a chance to ask questions. If you have more than one question, give others a chance to pose theirs before you ask your next question.
+	- Ask questions but respect the presenter’s wishes regarding when to ask questions (some like questions during the presentation, others have specific Q&A time slots). Also, give others a chance to ask questions. If you have more than one question, give others a chance to pose theirs before you ask your next question.
 
-· Don’t challenge the presenter on a point during the presentation. If you feel that the presenter’s information is completely incorrect or off base, signal one of the user group leaders, leave the room to present your information, and allow the user group leader to deal with it. Asking a question that might lead to clarification is one thing, directly disagreeing with the presenter leads to embarrassment of the presenter and confusion for other attendees.
+	- Don’t challenge the presenter on a point during the presentation. If you feel that the presenter’s information is completely incorrect or off base, signal one of the user group leaders, leave the room to present your information, and allow the user group leader to deal with it. Asking a question that might lead to clarification is one thing, directly disagreeing with the presenter leads to embarrassment of the presenter and confusion for other attendees.
 
-· Avoid asking questions or making statements that will side-track the presentation. However it’s intended, it may be seen as hijacking the presentation.
+	- Avoid asking questions or making statements that will side-track the presentation. However it’s intended, it may be seen as hijacking the presentation.
 
 3. No impersonations of a Microsoft or user group employee, agent, manager, host, or another user.
 
@@ -31,8 +31,18 @@ Data Platform DEI is the new home of the Virtual Group for Diversity, Equity, an
 
 10. No sexual harassment. Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex and includes gender-based harassment of a person of the same or different gender. Examples of sexual harassment include, but are not limited to:
 
-· Unwelcome sexual advances · Sexual comments or inappropriate gender-based jokes · Excessive, unwelcome romantic attention · Offering or conditioning an employment benefit or preferential treatment, like a promotion or job assignment, in exchange for sexual favors · Unwelcome physical contact
+	- Unwelcome sexual advances 
+	
+	- Sexual comments or inappropriate gender-based jokes 
+	
+	- Excessive, unwelcome romantic attention 
+	
+	- Offering or conditioning an employment benefit or preferential treatment, like a promotion or job assignment, in exchange for sexual favors 
+	
+	- Unwelcome physical contact
 
-· Sharing or displaying sexually explicit content · Using sexually degrading words Reporting Conduct Violations
+	- Sharing or displaying sexually explicit content 
+	
+	- Using sexually degrading words Reporting Conduct Violations
 
 If you become aware of a conduct violation on or offline, you are encouraged to report it to a user group leader. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a user group leader or member of the event staff immediately.
